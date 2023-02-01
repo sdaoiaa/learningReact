@@ -1,0 +1,12 @@
+REACT:
+¿que es react?
+react es una biblioteca de js para construir interfaces de usuarios. Permite componer IU complejas de pequeñas piezas llamada componentes.
+
+- React.Component
+Es una clase de componente de react, un componente acepta parametros llamados props ('propiedades'), y retorna una jerarquia de vistas a mostrar a traves del metodo render.
+render retorna un elemento de React.
+
+React.createElement('h1', /* ... children */)
+creara un h1.
+
+
